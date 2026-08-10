@@ -4,7 +4,7 @@ Eşya Kılavuzu; evdeki eşyaların garanti, bakım, konum ve kullanım bilgiler
 
 ## Canlı proje
 
-Dağıtım tamamlandığında canlı bağlantıyı buraya ekleyin.
+[Eşya Kılavuzu'nu Netlify üzerinde aç](https://esya-kilavuzu-busra.netlify.app)
 
 ## Özellikler
 
