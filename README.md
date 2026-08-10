@@ -30,7 +30,7 @@ Eşya Kılavuzu; evdeki eşyaların garanti, bakım, konum ve kullanım bilgiler
 - Pure CSS
 - Web Storage API (LocalStorage)
 - Git ve GitHub
-- Sites veya Netlify benzeri yayın platformu
+- Netlify
 
 ## CRUD karşılıkları
 
@@ -54,9 +54,18 @@ app/
 │   └── item.ts
 ├── Pages/
 │   └── GuidePage.tsx
-├── globals.css
-├── layout.tsx
-└── page.tsx
+└── globals.css
+public/
+└── screenshots/
+    └── esya-kilavuzu-ana-ekran.png
+src/
+├── main.tsx
+└── vite-env.d.ts
+index.html
+netlify.toml
+package.json
+tsconfig.json
+vite.config.ts
 ```
 
 ## Bilgisayarda çalıştırma
@@ -98,7 +107,7 @@ Kayıtlar `esya-kilavuzu-items-v1` anahtarıyla kullanıcının tarayıcısında
 - [x] Silme işlemi yapıldı.
 - [x] LocalStorage kullanıldı.
 - [x] En az bir ekran görüntüsü README'ye eklendi.
-- [ ] Proje public GitHub deposuna gönderildi.
+- [x] Proje public GitHub deposuna gönderildi.
 - [ ] GitHub bağlantısı teslim formuna yazıldı.
-- [ ] Proje Netlify veya eş değer bir platformda yayımlandı.
+- [x] Proje Netlify üzerinde yayımlandı.
 - [ ] Canlı bağlantı teslim formuna yazıldı.
