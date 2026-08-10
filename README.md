@@ -2,9 +2,10 @@
 
 Eşya Kılavuzu; evdeki eşyaların garanti, bakım, konum ve kullanım bilgilerini tek yerde tutmaya yarayan bir React uygulamasıdır. Proje, eşyaların ömrünü uzatmayı ve gereksiz tüketimi azaltmayı hedefler.
 
-## Canlı proje
+## Teslim bağlantıları
 
-[Eşya Kılavuzu'nu Netlify üzerinde aç](https://esya-kilavuzu-busra.netlify.app)
+- **GitHub deposu:** [github.com/busratuncc/esya-kilavuzu](https://github.com/busratuncc/esya-kilavuzu)
+- **Canlı proje:** [esya-kilavuzu-busra.netlify.app](https://esya-kilavuzu-busra.netlify.app)
 
 ## Özellikler
 
@@ -31,6 +32,7 @@ Eşya Kılavuzu; evdeki eşyaların garanti, bakım, konum ve kullanım bilgiler
 - Web Storage API (LocalStorage)
 - Git ve GitHub
 - Netlify
+- Visual Studio Code
 
 ## CRUD karşılıkları
 
